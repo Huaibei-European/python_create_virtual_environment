@@ -44,6 +44,5 @@ virtualenv env
 
 点击文件——>新建项目，根据提示即可自主创建虚拟环境。
 
-![image-20210630145540941](C:\Users\jiuye\AppData\Roaming\Typora\typora-user-images\image-20210630145540941.png)
 
 不继承全局站点包将意味着当前虚拟环境是“最干净的”，没有任何的第三方库，仅含有标准库。
